@@ -150,9 +150,9 @@ A comprehensive **Business Intelligence solution** built for **AtliQ Hardware** 
 
 # Author
 
-**Kunal K. Hiwase**
+**Rital R. Burile**
 
-- 💼 LinkedIn: https://linkedin.com/in/kunalhiwase
+- 💼 LinkedIn: https://www.linkedin.com/in/ritalrburile/
 - 📊 Power BI Dashboard: https://app.powerbi.com/view?r=eyJrIjoiZDUxNzRlOGYtNTJkNS00YTZlLWE0YTYtOTg3ZGI1ZTFjMTUxIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
 
 ---
